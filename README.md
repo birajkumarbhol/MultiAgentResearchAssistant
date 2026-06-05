@@ -1,5 +1,11 @@
 # 🤖 Multi-Agent Research Assistant
 
+## Application Preview
+
+![Application Screenshot](ScreenshotAIAPP.png)
+
+
+
 ## Overview
 
 The Multi-Agent Research Assistant is an AI-powered research automation system built using Python, Streamlit, Groq LLM, and DuckDuckGo Search.
